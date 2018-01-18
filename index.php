@@ -68,7 +68,7 @@
 
 
 	$start = new albums();	
-	//$start -> A(2);
+	$start -> A(2);
 	//$start -> B();
 	//$start -> C();
 
